@@ -6,6 +6,7 @@
   "dependencies": {
     "hamoni-sync": "^1.1.1",
     "vue": "^2.6.10",
+    "vue-router": "^3.0.2",
     "vuetify": "^1.5.5",
     "webextension-polyfill": "^0.4.0"
   },
