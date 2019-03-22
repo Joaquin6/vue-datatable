@@ -1,0 +1,25 @@
+# Editor directories and files
+.DS_Store
+.idea
+.env
+.env-development
+.env-production
+.npmrc
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vue.json
+\.yarnclean
+
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Backpack build
+dist
+dist-zip

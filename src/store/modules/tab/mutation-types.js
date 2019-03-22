@@ -1,0 +1,3 @@
+export const SET_TAB_CONFIRM = 'SET_TAB_CONFIRM';
+export const SET_TAB_DISMISS = 'SET_TAB_DISMISS';
+export const SET_TAB_STATUS = 'SET_TAB_STATUS';
